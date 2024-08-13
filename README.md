@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning (NLP), Game development
 - 🌱 I’m currently learning Tranformer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chloewu0721@gmail.com
+- 📫 How to reach me c36910615@gmail.com
 
 
 <!---
